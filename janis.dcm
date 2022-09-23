@@ -4,6 +4,12 @@ $CMP HyperFlash-TFBGA24
 D HyperFlash
 $ENDCMP
 #
+$CMP USB_C_Plug_PowerOnly
+D USB 2.0-only Type-C Plug connector
+K usb universal serial bus type-C USB2.0
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
 $CMP W95xx8M
 D Windbond HyperRam DRAM
 $ENDCMP
