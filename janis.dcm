@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HyperFlash-TFBGA24
+D HyperFlash
+$ENDCMP
+#
 $CMP W95xx8M
 D Windbond HyperRam DRAM
 $ENDCMP
